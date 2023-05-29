@@ -1,8 +1,10 @@
 .body {
-    margin-top: 40px;
+/*     margin-top: 40px; */
     position: absolute;
     min-width: 100%;
-    min-height: 94.2vh;
+/*     min-height: 94.2vh; */
+    min-height: 100vh;
+   
     background-image: url("./Images/background.jpg");
     background-color: aqua;
     background-repeat: repeat;
